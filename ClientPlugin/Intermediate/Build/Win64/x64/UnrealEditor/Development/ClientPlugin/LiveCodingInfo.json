@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ClientPlugin.cpp.obj": [
+			"ByteBuffer.gen.cpp.obj",
+			"ClientPlugin.init.gen.cpp.obj",
+			"Encryption.gen.cpp.obj",
+			"QueueBuffer.gen.cpp.obj",
+			"Websocket.gen.cpp.obj",
+			"ByteBuffer.cpp.obj",
+			"ClientPlugin.cpp.obj",
+			"Encryption.cpp.obj",
+			"QueueBuffer.cpp.obj",
+			"Websocket.cpp.obj"
+		]
+	}
+}

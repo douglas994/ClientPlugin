@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ClientPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\UsuarioPC\Documents\Unreal Projects\MMO\Intermediate\Build\Win64\x64\MMOEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\UsuarioPC\Documents\Unreal Projects\MMO\Plugins\ClientPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClientPlugin\Module.ClientPlugin.cpp.obj"
+"C:\Users\UsuarioPC\Documents\Unreal Projects\MMO\Plugins\ClientPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClientPlugin\ByteBuffer.cpp.obj"
+"C:\Users\UsuarioPC\Documents\Unreal Projects\MMO\Plugins\ClientPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClientPlugin\ClientPlugin.cpp.obj"
+"C:\Users\UsuarioPC\Documents\Unreal Projects\MMO\Plugins\ClientPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClientPlugin\Encryption.cpp.obj"
+"C:\Users\UsuarioPC\Documents\Unreal Projects\MMO\Plugins\ClientPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClientPlugin\QueueBuffer.cpp.obj"
+"C:\Users\UsuarioPC\Documents\Unreal Projects\MMO\Plugins\ClientPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClientPlugin\Websocket.cpp.obj"
+"C:\Users\UsuarioPC\Documents\Unreal Projects\MMO\Plugins\ClientPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClientPlugin\Default.rc2.res"
+/OUT:"C:\Users\UsuarioPC\Documents\Unreal Projects\MMO\Plugins\ClientPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClientPlugin\UnrealEditor-ClientPlugin.lib"

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\usuariopc\\documents\\unreal projects\\mmo\\plugins\\clientplugin\\source\\clientplugin\\private\\bytebuffer.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\usuariopc\\documents\\unreal projects\\mmo\\intermediate\\build\\win64\\x64\\mmoeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\usuariopc\\documents\\unreal projects\\mmo\\plugins\\clientplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\clientplugin\\definitions.clientplugin.h",
+            "c:\\users\\usuariopc\\documents\\unreal projects\\mmo\\plugins\\clientplugin\\source\\clientplugin\\public\\bytebuffer.h",
+            "c:\\users\\usuariopc\\documents\\unreal projects\\mmo\\plugins\\clientplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\clientplugin\\uht\\bytebuffer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
